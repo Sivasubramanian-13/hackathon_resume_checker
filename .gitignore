@@ -1,0 +1,15 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Database
+resume_checker.db
+
+# Fine-tuned model
+fine_tuned_model/
+
+# Sample data
+sample_data/
