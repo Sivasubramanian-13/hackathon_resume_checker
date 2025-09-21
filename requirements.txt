@@ -1,8 +1,9 @@
 streamlit
 pdfplumber
-python-docx
-fuzzywuzzy
-sentence-transformers
+docx2txt
 scikit-learn
+sentence-transformers
 pandas
 gdown
+fuzzywuzzy
+python-Levenshtein
